@@ -77,7 +77,7 @@ Backpressure було перевірено під час завантаженн�
 
 **Log excerpt:**
 
-```text
+
 
 <img width="419" height="228" alt="Снимок экрана 2026-09-23 в 18 36 45" src="https://github.com/user-attachments/assets/fea0a259-7cd1-4fd1-a843-8c81c06912d7" />
 
