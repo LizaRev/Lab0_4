@@ -1,0 +1,16 @@
+[
+  {
+    "id": "room-1",
+    "name": "Arena 1",
+    "players": 1,
+    "maxPlayers": 4,
+    "arena": "arena.json"
+  },
+  {
+    "id": "room-2",
+    "name": "Arena 2",
+    "players": 2,
+    "maxPlayers": 4,
+    "arena": "arena.json"
+  }
+]

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+
+.env
+server/logs/
+.git-lab03-backup/
+server/server/logs/
+public/api/*.save
